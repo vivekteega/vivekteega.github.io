@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Vivek Teega
+title: Vivek Teega | Blockchain Developer
+description: Blockchain Developer writing apps on FLO blockchain using JavaScript & Python
+url: https://vivekteega.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: vivek.teega@gmail.com
+cover: https://vivekteega.github.io/img/og.png
+logo: https://vivekteega.github.io/img/emojis/technologist.png
+resume: https://vivekteega.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:vivek.teega@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/vivekteega
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/vivekteega
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/vivekteega
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/vivekteega
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/vivekteega
 
 # Build settings
 markdown: kramdown
