@@ -1,33 +1,31 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
   - item: Python
-  - item: SQL
-  - item: R
+  - item: JavaScript
+  - item: Shell Scripting
+  - item: Node.js
+  - item: Solidity
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+devops:
+  - item: Docker & Docker Swarm
+  - item: Kubernetes & k3s
+  - item: Terraform
+  - item: Ansible
+  - item: GitOps
+  - item: Helm & ArgoCD
+  - item: GitHub Actions CI/CD
+  - item: Jenkins
 
-tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+cloud:
+  - item: AWS
+  - item: Google Cloud Platform
+  - item: HashiCorp Vault
+  - item: NGINX
+  - item: Netdata, Prometheus & Grafana
+  - item: Snyk
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+blockchain:
+  - item: FLO Blockchain
+  - item: Bitcoin & Litecoin
+  - item: Ethereum
+  - item: Smart Contracts & Hardhat
+  - item: SHA256 & Merkle Trees
