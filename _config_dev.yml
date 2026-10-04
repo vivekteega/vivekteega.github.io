@@ -2,12 +2,12 @@
 name: Vivek Teegalapally
 title: Vivek Teegalapally | Blockchain Developer
 description: Blockchain Developer writing apps on FLO blockchain using JavaScript & Python
-url: https://vivekteega.github.io/
+url: https://vivekteega.com/
 baseurl: ''
 email: vivek.teega@gmail.com
-cover: https://vivekteega.github.io/img/og.png
-logo: https://vivekteega.github.io/img/emojis/technologist.png
-resume: https://vivekteega.github.io/resume.pdf
+cover: https://vivekteega.com/img/og.png?v=2
+logo: https://vivekteega.com/img/emojis/technologist.png
+resume: https://vivekteega.com/resume.pdf
 social:
   - title: email
     url: mailto:vivek.teega@gmail.com
